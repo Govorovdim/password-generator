@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Password Generator",
+    "version": "1.0",
+    "description": "Chrome extantion for generation of password. Free. Simple. Safe.",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "images/icon.png"
+    },
+    "author": "support@dmitriy.contact" 
+}
